@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Google Analytics ID</key>
+	<string></string>
+	<key>API client user</key>
+	<string></string>
+	<key>API client password</key>
+	<string></string>
+	<key>Visible region</key>
+	<dict>
+		<key>center.latitude</key>
+		<real>40.645244</real>
+		<key>center.longitude</key>
+		<real>-73.9449975</real>
+		<key>span.latitudeDelta</key>
+		<real>0.19</real>
+		<key>span.longitudeDelta</key>
+		<real>0.225</real>
+	</dict>
+	<key>Filter city</key>
+	<string>Brooklyn</string>
+</dict>
+</plist>
